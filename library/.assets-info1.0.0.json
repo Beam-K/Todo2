@@ -1,0 +1,211 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts.meta": {
+      "time": 1730994833695.7063
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts": {
+      "time": 1731156870400.14,
+      "uuid": "fe531609-1df1-4f37-ba75-a9111823c78e"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites.meta": {
+      "time": 1731088147266.577
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites": {
+      "time": 1731093903962.9412,
+      "uuid": "50c50da9-9d89-45b1-9135-5d43ab376c14"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs.meta": {
+      "time": 1731088177236.0327
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs": {
+      "time": 1731093393670.9958,
+      "uuid": "66eefd89-1205-4a70-9476-d193d9e04e4b"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\PrefabManager.prefab.meta": {
+      "time": 1731006760888.4702
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\PrefabManager.prefab": {
+      "time": 1731022031544.6548,
+      "uuid": "e847c8d7-2ff0-4a65-9317-1eaab46a0d33"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes.meta": {
+      "time": 1731088192989.3567
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes": {
+      "time": 1731093416917.4885,
+      "uuid": "4aff88c2-b6e1-446b-9f60-bca7c6e1d46d"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\AddTodo.ts.meta": {
+      "time": 1731012060473.265
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\AddTodo.ts": {
+      "time": 1731156870393.1584,
+      "uuid": "2ae5f71f-f0df-4c07-a21f-6268225d26fa"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\DeleteTask.ts.meta": {
+      "time": 1731091154724.3352
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\DeleteTask.ts": {
+      "time": 1731156870400.14,
+      "uuid": "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\PrefabCreated.prefab.meta": {
+      "time": 1731093393681.138
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\PrefabCreated.prefab": {
+      "time": 1731093393678.5076,
+      "uuid": "80e563ac-f78c-49c4-938d-1f61ce0b9ecb"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\Main.scene.meta": {
+      "time": 1731088316677.277
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\Main.scene": {
+      "time": 1731156894742.0461,
+      "uuid": "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\CompleteTask.ts.meta": {
+      "time": 1731088554680.64
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\CompleteTask.ts": {
+      "time": 1731149043953.3252,
+      "uuid": "dd37162d-7e2a-45b8-9e8d-c77a15467a58"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\IconMovement.png.meta": {
+      "time": 1731093726247.5007
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\IconMovement.png": {
+      "time": 1731093074415.5845,
+      "uuid": "feba469f-d772-4d7d-b33c-6c4acca17dbb"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\GreyBackground.jpg.meta": {
+      "time": 1731093737663.296
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\GreyBackground.jpg": {
+      "time": 1730723330462.9504,
+      "uuid": "c819551e-37d8-4c1a-a103-70e222c640f3"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\WhiteBackground.jpg.meta": {
+      "time": 1731093743919.8757
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\WhiteBackground.jpg": {
+      "time": 1730724841020.479,
+      "uuid": "1d755890-fff1-44fd-8f50-acd8333cbfd7"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForEditbox.png.meta": {
+      "time": 1731093833440.3777
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForEditbox.png": {
+      "time": 1730729690796.077,
+      "uuid": "56efe508-7465-4e27-a30a-64762f04b4a6"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonComplete.png.meta": {
+      "time": 1731093868450.4717
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonComplete.png": {
+      "time": 1730777955392.9368,
+      "uuid": "223d3756-3cf6-422c-bec4-beec1ab0d137"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonAddToDo.png.meta": {
+      "time": 1731093891184.5217
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonAddToDo.png": {
+      "time": 1730778247050.2773,
+      "uuid": "3b1e942b-c9fd-47c3-9af6-94809dd255dd"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonDelete.png.meta": {
+      "time": 1731093903988.8723
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonDelete.png": {
+      "time": 1731087711525.7383,
+      "uuid": "5a1a58cc-a2a9-46c1-931d-e47b7deb2830"
+    }
+  },
+  "missing": {
+    "fe531609-1df1-4f37-ba75-a9111823c78e": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\folder",
+      "time": 1730994983885.1133,
+      "removeTime": 1730995977120
+    },
+    "34ed060d-535e-4e45-b533-b5b5f88eee39": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\NewComponent.ts",
+      "time": 1731016251950.6287,
+      "removeTime": 1731088533464
+    },
+    "e847c8d7-2ff0-4a65-9317-1eaab46a0d33": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\PrefabManager.prefab",
+      "time": 1731022031544.6548,
+      "removeTime": 1731088180681
+    },
+    "c4132e7e-1f04-4dbc-b13e-a608699f03b6": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Прямоугольник 61.png",
+      "time": 1731087569755.915,
+      "removeTime": 1731087722209
+    },
+    "1d755890-fff1-44fd-8f50-acd8333cbfd7": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\whiteBackground.jpg",
+      "time": 1730724841020.479,
+      "removeTime": 1731093743830
+    },
+    "c819551e-37d8-4c1a-a103-70e222c640f3": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\grey Background.jpg",
+      "time": 1730723330462.9504,
+      "removeTime": 1731093737650
+    },
+    "56efe508-7465-4e27-a30a-64762f04b4a6": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\Прямоугольник 4.png",
+      "time": 1730729690796.077,
+      "removeTime": 1731093833407
+    },
+    "223d3756-3cf6-422c-bec4-beec1ab0d137": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\the frame for the editbox.png",
+      "time": 1730777955392.9368,
+      "removeTime": 1731093868428
+    },
+    "3b1e942b-c9fd-47c3-9af6-94809dd255dd": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\Прямоугольник 5.png",
+      "time": 1730778247050.2773,
+      "removeTime": 1731093891158
+    },
+    "5a1a58cc-a2a9-46c1-931d-e47b7deb2830": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\Прямоугольник 10.png",
+      "time": 1731087711525.7383,
+      "removeTime": 1731093903964
+    },
+    "80e563ac-f78c-49c4-938d-1f61ce0b9ecb": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\Sprite.prefab",
+      "time": 1731092753622.829,
+      "removeTime": 1731093393673
+    },
+    "a9d32977-c145-4e40-9f0e-cd2c335eb1b5": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\scene.scene",
+      "time": 1731088197602.004,
+      "removeTime": 1731088316660
+    },
+    "2ae5f71f-f0df-4c07-a21f-6268225d26fa": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\NewComponent-001.ts",
+      "time": 1731024859809.663,
+      "removeTime": 1731088571607
+    },
+    "595e6e44-288a-4b89-8f69-b972a62d88ce": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\FontFamily",
+      "time": 1731089510976.4878,
+      "removeTime": 1731093992870
+    },
+    "dd37162d-7e2a-45b8-9e8d-c77a15467a58": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\ColorChanger.ts",
+      "time": 1731092646408.4578,
+      "removeTime": 1731093450225
+    },
+    "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\scene2.scene",
+      "time": 1731088475128.9033,
+      "removeTime": 1731093416918
+    },
+    "feba469f-d772-4d7d-b33c-6c4acca17dbb": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\movement icon.png",
+      "time": 1731093074415.5845,
+      "removeTime": 1731093726228
+    }
+  }
+}

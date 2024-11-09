@@ -1,0 +1,303 @@
+{
+  "fe531609-1df1-4f37-ba75-a9111823c78e": {
+    "url": "db://assets/Scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "34ed060d-535e-4e45-b533-b5b5f88eee39": {
+    "url": "db://assets/Scripts/NewComponent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c819551e-37d8-4c1a-a103-70e222c640f3": {
+    "url": "db://assets/Sprites/GreyBackground.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c819551e-37d8-4c1a-a103-70e222c640f3@6c48a": {
+    "url": "db://assets/Sprites/GreyBackground.jpg@6c48a",
+    "value": {
+      "depends": [
+        "c819551e-37d8-4c1a-a103-70e222c640f3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c819551e-37d8-4c1a-a103-70e222c640f3@f9941": {
+    "url": "db://assets/Sprites/GreyBackground.jpg@f9941",
+    "value": {
+      "depends": [
+        "c819551e-37d8-4c1a-a103-70e222c640f3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "80e563ac-f78c-49c4-938d-1f61ce0b9ecb": {
+    "url": "db://assets/Prefabs/PrefabCreated.prefab",
+    "value": {
+      "depends": [
+        "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "223d3756-3cf6-422c-bec4-beec1ab0d137@f9941",
+        "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941"
+      ],
+      "dependScripts": [
+        "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568",
+        "dd37162d-7e2a-45b8-9e8d-c77a15467a58"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3b1e942b-c9fd-47c3-9af6-94809dd255dd": {
+    "url": "db://assets/Sprites/FrameForButtonAddToDo.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3b1e942b-c9fd-47c3-9af6-94809dd255dd@6c48a": {
+    "url": "db://assets/Sprites/FrameForButtonAddToDo.png@6c48a",
+    "value": {
+      "depends": [
+        "3b1e942b-c9fd-47c3-9af6-94809dd255dd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3b1e942b-c9fd-47c3-9af6-94809dd255dd@f9941": {
+    "url": "db://assets/Sprites/FrameForButtonAddToDo.png@f9941",
+    "value": {
+      "depends": [
+        "3b1e942b-c9fd-47c3-9af6-94809dd255dd@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a9d32977-c145-4e40-9f0e-cd2c335eb1b5": {
+    "url": "db://assets/Scenes/scene.scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "e847c8d7-2ff0-4a65-9317-1eaab46a0d33": {
+    "url": "db://assets/Prefabs/PrefabManager.prefab",
+    "value": {
+      "depends": [
+        "c819551e-37d8-4c1a-a103-70e222c640f3@f9941",
+        "56efe508-7465-4e27-a30a-64762f04b4a6@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "56efe508-7465-4e27-a30a-64762f04b4a6": {
+    "url": "db://assets/Sprites/FrameForEditbox.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "56efe508-7465-4e27-a30a-64762f04b4a6@6c48a": {
+    "url": "db://assets/Sprites/FrameForEditbox.png@6c48a",
+    "value": {
+      "depends": [
+        "56efe508-7465-4e27-a30a-64762f04b4a6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "56efe508-7465-4e27-a30a-64762f04b4a6@f9941": {
+    "url": "db://assets/Sprites/FrameForEditbox.png@f9941",
+    "value": {
+      "depends": [
+        "56efe508-7465-4e27-a30a-64762f04b4a6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2ae5f71f-f0df-4c07-a21f-6268225d26fa": {
+    "url": "db://assets/Scripts/AddTodo.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1d755890-fff1-44fd-8f50-acd8333cbfd7": {
+    "url": "db://assets/Sprites/WhiteBackground.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "1d755890-fff1-44fd-8f50-acd8333cbfd7@6c48a": {
+    "url": "db://assets/Sprites/WhiteBackground.jpg@6c48a",
+    "value": {
+      "depends": [
+        "1d755890-fff1-44fd-8f50-acd8333cbfd7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941": {
+    "url": "db://assets/Sprites/WhiteBackground.jpg@f9941",
+    "value": {
+      "depends": [
+        "1d755890-fff1-44fd-8f50-acd8333cbfd7@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "223d3756-3cf6-422c-bec4-beec1ab0d137": {
+    "url": "db://assets/Sprites/FrameForButtonComplete.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "223d3756-3cf6-422c-bec4-beec1ab0d137@6c48a": {
+    "url": "db://assets/Sprites/FrameForButtonComplete.png@6c48a",
+    "value": {
+      "depends": [
+        "223d3756-3cf6-422c-bec4-beec1ab0d137"
+      ]
+    },
+    "versionCode": 1
+  },
+  "223d3756-3cf6-422c-bec4-beec1ab0d137@f9941": {
+    "url": "db://assets/Sprites/FrameForButtonComplete.png@f9941",
+    "value": {
+      "depends": [
+        "223d3756-3cf6-422c-bec4-beec1ab0d137@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c4132e7e-1f04-4dbc-b13e-a608699f03b6": {
+    "url": "db://assets/Прямоугольник 61.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "c4132e7e-1f04-4dbc-b13e-a608699f03b6@6c48a": {
+    "url": "db://assets/Прямоугольник 61.png@6c48a",
+    "value": {
+      "depends": [
+        "c4132e7e-1f04-4dbc-b13e-a608699f03b6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c4132e7e-1f04-4dbc-b13e-a608699f03b6@f9941": {
+    "url": "db://assets/Прямоугольник 61.png@f9941",
+    "value": {
+      "depends": [
+        "c4132e7e-1f04-4dbc-b13e-a608699f03b6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5a1a58cc-a2a9-46c1-931d-e47b7deb2830": {
+    "url": "db://assets/Sprites/FrameForButtonDelete.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@6c48a": {
+    "url": "db://assets/Sprites/FrameForButtonDelete.png@6c48a",
+    "value": {
+      "depends": [
+        "5a1a58cc-a2a9-46c1-931d-e47b7deb2830"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@f9941": {
+    "url": "db://assets/Sprites/FrameForButtonDelete.png@f9941",
+    "value": {
+      "depends": [
+        "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "50c50da9-9d89-45b1-9135-5d43ab376c14": {
+    "url": "db://assets/Sprites",
+    "value": {},
+    "versionCode": 1
+  },
+  "66eefd89-1205-4a70-9476-d193d9e04e4b": {
+    "url": "db://assets/Prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "4aff88c2-b6e1-446b-9f60-bca7c6e1d46d": {
+    "url": "db://assets/Scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85": {
+    "url": "db://assets/Scenes/Main.scene",
+    "value": {
+      "depends": [
+        "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "e847c8d7-2ff0-4a65-9317-1eaab46a0d33",
+        "3b1e942b-c9fd-47c3-9af6-94809dd255dd@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "80e563ac-f78c-49c4-938d-1f61ce0b9ecb",
+        "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941",
+        "98fa4223-fecb-49b9-82b8-22efdb3dc7e1"
+      ],
+      "dependScripts": [
+        "2ae5f71f-f0df-4c07-a21f-6268225d26fa",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dd37162d-7e2a-45b8-9e8d-c77a15467a58": {
+    "url": "db://assets/Scripts/CompleteTask.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "595e6e44-288a-4b89-8f69-b972a62d88ce": {
+    "url": "db://assets/FontFamily",
+    "value": {},
+    "versionCode": 1
+  },
+  "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568": {
+    "url": "db://assets/Scripts/DeleteTask.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "feba469f-d772-4d7d-b33c-6c4acca17dbb": {
+    "url": "db://assets/Sprites/IconMovement.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "feba469f-d772-4d7d-b33c-6c4acca17dbb@6c48a": {
+    "url": "db://assets/Sprites/IconMovement.png@6c48a",
+    "value": {
+      "depends": [
+        "feba469f-d772-4d7d-b33c-6c4acca17dbb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "feba469f-d772-4d7d-b33c-6c4acca17dbb@f9941": {
+    "url": "db://assets/Sprites/IconMovement.png@f9941",
+    "value": {
+      "depends": [
+        "feba469f-d772-4d7d-b33c-6c4acca17dbb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  }
+}
