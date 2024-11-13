@@ -13,15 +13,6 @@
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites.meta": {
       "time": 1731158986308.652
     },
-    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\AddTodo.ts.meta": {
-      "time": 1731129314104.2185
-    },
-    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\CompleteTask.ts.meta": {
-      "time": 1731129314106.2134
-    },
-    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\DeleteTask.ts.meta": {
-      "time": 1731129314107.211
-    },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs": {
       "time": 1731336226449.9978,
       "uuid": "eaef4849-e919-4e6b-917a-280b589c2612"
@@ -31,24 +22,12 @@
       "uuid": "7cbff6ac-51dd-4ec8-aa31-2cf3acb08c10"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts": {
-      "time": 1731498775131.2217,
+      "time": 1731511744417.5642,
       "uuid": "9c75121c-e291-4d30-a4bc-fe4f0ebbddab"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites": {
       "time": 1731328437595.7021,
       "uuid": "87b31120-b738-40e9-b65e-c7f1a951365d"
-    },
-    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\AddTodo.ts": {
-      "time": 1731498775099.308,
-      "uuid": "2ae5f71f-f0df-4c07-a21f-6268225d26fa"
-    },
-    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\CompleteTask.ts": {
-      "time": 1731498775130.2249,
-      "uuid": "dd37162d-7e2a-45b8-9e8d-c77a15467a58"
-    },
-    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\DeleteTask.ts": {
-      "time": 1731497631164.3545,
-      "uuid": "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\Main.scene.meta": {
       "time": 1731129314102.2236
@@ -75,7 +54,7 @@
       "time": 1731129314122.1763
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\Main.scene": {
-      "time": 1731499071805.1753,
+      "time": 1731506718760.578,
       "uuid": "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonAddToDo.png": {
@@ -124,22 +103,29 @@
       "time": 1731335685443.5405
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\PrefabCreator.prefab": {
-      "time": 1731498476164.2449,
+      "time": 1731503099980.7373,
       "uuid": "ee85a2ca-c728-4e23-a0a3-c11d1f3ed1e0"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\task-item.prefab.meta": {
       "time": 1731336226465.8862
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\task-item.prefab": {
-      "time": 1731499043509.0342,
+      "time": 1731511861303.5845,
       "uuid": "95e721c7-1969-45d9-ab89-d51a47903335"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\task-item.ts.meta": {
       "time": 1731336391081.3032
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\task-item.ts": {
-      "time": 1731496697465.059,
+      "time": 1731511514041.4978,
       "uuid": "4067d821-5be1-496a-9805-360822dd5e96"
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\add-todo.ts.meta": {
+      "time": 1731502484960.9202
+    },
+    "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\add-todo.ts": {
+      "time": 1731502987251.9338,
+      "uuid": "28b4b4b7-53ef-423c-94f4-1ec5e833f9f2"
     }
   },
   "missing": {
@@ -187,6 +173,31 @@
       "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\Canvas.ts",
       "time": 1731497111893.9731,
       "removeTime": 1731497637545
+    },
+    "2ae5f71f-f0df-4c07-a21f-6268225d26fa": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\AddTodo.ts",
+      "time": 1731498775099.308,
+      "removeTime": 1731502484856
+    },
+    "dd37162d-7e2a-45b8-9e8d-c77a15467a58": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\CompleteTask.ts",
+      "time": 1731498775130.2249,
+      "removeTime": 1731502484861
+    },
+    "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\DeleteTask.ts",
+      "time": 1731497631164.3545,
+      "removeTime": 1731502484863
+    },
+    "0a339de3-4143-494d-a228-21c2e856eac0": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\complete-task.ts",
+      "time": 1731505025142.0957,
+      "removeTime": 1731511741188
+    },
+    "5cbc3301-1de5-49e6-a403-0157060ed7bd": {
+      "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\delete-task.ts",
+      "time": 1731505196478.7617,
+      "removeTime": 1731511744425
     }
   }
 }

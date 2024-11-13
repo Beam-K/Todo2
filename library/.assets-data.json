@@ -56,7 +56,8 @@
         "98fa4223-fecb-49b9-82b8-22efdb3dc7e1"
       ],
       "dependScripts": [
-        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "0a339de3-4143-494d-a228-21c2e856eac0"
       ]
     },
     "versionCode": 1
@@ -293,12 +294,9 @@
         "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
         "223d3756-3cf6-422c-bec4-beec1ab0d137@f9941",
         "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@f9941",
-        "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941",
-        "95e721c7-1969-45d9-ab89-d51a47903335"
+        "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941"
       ],
       "dependScripts": [
-        "dd37162d-7e2a-45b8-9e8d-c77a15467a58",
-        "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568",
         "4067d821-5be1-496a-9805-360822dd5e96"
       ]
     },
@@ -319,12 +317,11 @@
     "value": {
       "depends": [
         "3b1e942b-c9fd-47c3-9af6-94809dd255dd@f9941",
-        "95e721c7-1969-45d9-ab89-d51a47903335",
         "1f118cb4-46f5-4166-be55-8149d6ed6f75@f9941",
         "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941"
       ],
       "dependScripts": [
-        "2ae5f71f-f0df-4c07-a21f-6268225d26fa"
+        "28b4b4b7-53ef-423c-94f4-1ec5e833f9f2"
       ]
     },
     "versionCode": 1
@@ -336,6 +333,21 @@
   },
   "e95b5ca7-a003-456b-b866-9b8315ca1779": {
     "url": "db://assets/Scripts/Canvas.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "28b4b4b7-53ef-423c-94f4-1ec5e833f9f2": {
+    "url": "db://assets/Scripts/add-todo.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0a339de3-4143-494d-a228-21c2e856eac0": {
+    "url": "db://assets/Scripts/complete-task.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5cbc3301-1de5-49e6-a403-0157060ed7bd": {
+    "url": "db://assets/Scripts/delete-task.ts",
     "value": {},
     "versionCode": 1
   }
