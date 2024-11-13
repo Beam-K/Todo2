@@ -31,7 +31,7 @@
       "uuid": "7cbff6ac-51dd-4ec8-aa31-2cf3acb08c10"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts": {
-      "time": 1731336831545.9446,
+      "time": 1731489202550.1902,
       "uuid": "9c75121c-e291-4d30-a4bc-fe4f0ebbddab"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites": {
@@ -43,7 +43,7 @@
       "uuid": "2ae5f71f-f0df-4c07-a21f-6268225d26fa"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\CompleteTask.ts": {
-      "time": 1731321504902.5505,
+      "time": 1731486409044.7295,
       "uuid": "dd37162d-7e2a-45b8-9e8d-c77a15467a58"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\DeleteTask.ts": {
@@ -75,7 +75,7 @@
       "time": 1731129314122.1763
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scenes\\Main.scene": {
-      "time": 1731410690013.4873,
+      "time": 1731483275926.3057,
       "uuid": "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Sprites\\FrameForButtonAddToDo.png": {
@@ -124,21 +124,21 @@
       "time": 1731335685443.5405
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\PrefabCreator.prefab": {
-      "time": 1731481389915.645,
+      "time": 1731494988595.395,
       "uuid": "ee85a2ca-c728-4e23-a0a3-c11d1f3ed1e0"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\task-item.prefab.meta": {
       "time": 1731336226465.8862
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Prefabs\\task-item.prefab": {
-      "time": 1731481459146.184,
+      "time": 1731493714872.8442,
       "uuid": "95e721c7-1969-45d9-ab89-d51a47903335"
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\task-item.ts.meta": {
       "time": 1731336391081.3032
     },
     "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\Scripts\\task-item.ts": {
-      "time": 1731336822062.1,
+      "time": 1731489202548.1946,
       "uuid": "4067d821-5be1-496a-9805-360822dd5e96"
     }
   },

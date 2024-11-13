@@ -1,6 +1,8 @@
 import { _decorator, Component, Node, Label, Button, Color, UITransform, Vec3 } from 'cc';
 const { ccclass, property } = _decorator;
 
+
+
 @ccclass('StrikeThroughText')
 export class StrikeThroughText extends Component {
     @property(Button)

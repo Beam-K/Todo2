@@ -1,9 +1,11 @@
-import {Button, Component, _decorator} from "cc";
+import {Button, Component, _decorator, Prefab} from "cc";
+
 
 @_decorator.ccclass("TaskItem")
 export class TaskItem extends Component {
     @_decorator.property(Button) public completeButton: Button;
     @_decorator.property(Button) public deleteButton: Button;
+    @_decorator.property(Prefab) public prefabToDelete: Prefab;
 
     protected start(): void {
         this.completeButton.node.on(Button.EventType.CLICK, this.onComplete.bind(this));
@@ -11,10 +13,14 @@ export class TaskItem extends Component {
     }
 
     private onComplete(): void {
+
+
         console.log("complete");
     }
 
     private onDelete(): void {
-        console.log("delete");
+
+
+        console.log("onDelete");
     }
 }
