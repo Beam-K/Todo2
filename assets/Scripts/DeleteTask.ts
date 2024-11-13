@@ -4,7 +4,7 @@ const { ccclass, property } = _decorator;
 @ccclass('DeleteTask')
 export class PrefabDeletion extends Component {
     @property(Node)
-    public prefabToDelete: Node | null = null;
+    public prefabToDelete: Node | null = null; // Ссылка на префаб, который нужно удалить
 
     start() {
         const buttonComponent = this.getComponent(Button);
@@ -14,12 +14,13 @@ export class PrefabDeletion extends Component {
     }
 
     // Метод для удаления префаба
-    private deletePrefab() {
+    public deletePrefab() {
         if (this.prefabToDelete) {
             this.prefabToDelete.destroy(); // Удаляем префаб со сцены
             console.log('Префаб удалён со сцены');
         } else {
             console.warn('Префаб для удаления не установлен');
         }
+        console.log("удаление");
     }
 }

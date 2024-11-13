@@ -6,6 +6,7 @@
       "error",
       "info",
       "log"
-    ]
+    ],
+    "filterType": "error"
   }
 }
