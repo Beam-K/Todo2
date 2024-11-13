@@ -298,6 +298,7 @@
       ],
       "dependScripts": [
         "dd37162d-7e2a-45b8-9e8d-c77a15467a58",
+        "3d29bff9-a83b-4c1e-98a4-8a5f9bbd0568",
         "4067d821-5be1-496a-9805-360822dd5e96"
       ]
     },
@@ -318,9 +319,6 @@
     "value": {
       "depends": [
         "3b1e942b-c9fd-47c3-9af6-94809dd255dd@f9941",
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
-        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
         "95e721c7-1969-45d9-ab89-d51a47903335",
         "1f118cb4-46f5-4166-be55-8149d6ed6f75@f9941",
         "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941"
@@ -333,6 +331,11 @@
   },
   "4067d821-5be1-496a-9805-360822dd5e96": {
     "url": "db://assets/Scripts/task-item.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e95b5ca7-a003-456b-b866-9b8315ca1779": {
+    "url": "db://assets/Scripts/Canvas.ts",
     "value": {},
     "versionCode": 1
   }

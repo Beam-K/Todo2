@@ -4,16 +4,16 @@ const { ccclass, property } = _decorator;
 @ccclass('DeleteTask')
 export class PrefabDeletion extends Component {
     @property(Node)
-    public prefabToDelete: Node | null = null; // Ссылка на префаб, который нужно удалить
+    public prefabToDelete: Node | null = null;
 
     start() {
         const buttonComponent = this.getComponent(Button);
         if (buttonComponent) {
-            buttonComponent.node.on('click', this.deletePrefab, this); // Привязываем кнопку к методу удаления префаба
+            buttonComponent.node.on('click', this.deletePrefab, this);
         }
     }
 
-    // Метод для удаления префаба
+
     public deletePrefab() {
         if (this.prefabToDelete) {
             this.prefabToDelete.destroy(); // Удаляем префаб со сцены

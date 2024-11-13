@@ -8,17 +8,17 @@ export class TaskItem extends Component {
     @_decorator.property(Prefab) public prefabToDelete: Prefab;
 
     protected start(): void {
-        this.completeButton.node.on(Button.EventType.CLICK, this.onComplete.bind(this));
-        this.deleteButton.node.on(Button.EventType.CLICK, this.onDelete.bind(this));
+        this.completeButton.node.on(Button.EventType.CLICK, this._onComplete.bind(this));
+        this.deleteButton.node.on(Button.EventType.CLICK, this._onDelete.bind(this));
     }
 
-    private onComplete(): void {
+    private _onComplete(): void {
 
 
         console.log("complete");
     }
 
-    private onDelete(): void {
+    private _onDelete(): void {
 
 
         console.log("onDelete");

@@ -3,6 +3,7 @@ const { ccclass, property } = _decorator;
 
 @ccclass('PrefabCreator')
 export class PrefabCreator extends Component {
+
     @property(Prefab)
     public myPrefab: Prefab | null = null;
     @property(ScrollView)
@@ -11,16 +12,12 @@ export class PrefabCreator extends Component {
     public contentContainer: Node | null = null;
     @property(Button)
     public buttonAddTask: Button | null = null;
-
     @property(EditBox)
     public inputText1: EditBox | null = null;
-
     @property(EditBox)
     public inputText2: EditBox | null = null;
 
-    private offset: number = -150;
-
-    private prefabCount: number = 0;
+    private _prefabCount: number = 0;
 
     start() {
         if (this.scrollView) {
@@ -29,7 +26,7 @@ export class PrefabCreator extends Component {
 
         if (this.buttonAddTask) {
             this.buttonAddTask.node.on('click', this.onButtonClick, this);
-            console.log("адд")
+
         }
     }
 
@@ -43,7 +40,7 @@ export class PrefabCreator extends Component {
 
                 // Настройка текста для новой задачи
                 const labels = newPrefabInstance.getComponentsInChildren(Label);
-                let offset = this.prefabCount * -250;
+                let offset = this._prefabCount * -250;
                 newPrefabInstance.setPosition(0, 250, 0);
 
                 if (labels.length >= 2) {
@@ -51,10 +48,8 @@ export class PrefabCreator extends Component {
                     labels[1].string = text2;
                 }
 
-
-                // Добавляем экземпляр префаба в контейнер
                 this.contentContainer.addChild(newPrefabInstance);
-                this.prefabCount++;
+                this._prefabCount++;
 
                 this.updateLayout();
 
@@ -70,28 +65,18 @@ export class PrefabCreator extends Component {
 
     private deletePrefab(prefabInstance: Node) {
         if (prefabInstance) {
-            prefabInstance.destroy(); // Удаляем префаб
-            this.prefabCount--; // Уменьшение счетчика префабов
-            this.updateLayout(); // Обновляем макет оставшихся префабов
+            prefabInstance.destroy();
+            this._prefabCount--;
+            this.updateLayout();
         }
     }
 
     updateLayout() {
         const layout = this.contentContainer?.getComponent(Layout);
         if (layout) {
-            layout.updateLayout(); // Обновляем расположение оставшихся префабов
+            layout.updateLayout();
         }
     }
 
-    scrollToTop() {
-        if (this.scrollView) {
-            this.scrollView.scrollToTop();
-        }
-    }
 
-    scrollToBottom() {
-        if (this.scrollView) {
-            this.scrollView.scrollToBottom();
-        }
-    }
 }

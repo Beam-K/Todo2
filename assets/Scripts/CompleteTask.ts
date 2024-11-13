@@ -33,15 +33,12 @@ export class StrikeThroughText extends Component {
     private color() {
         if (this.label1) {
             if (this.label2) {
-                // Изменяем цвет текста
                 this.label1.color = this.newTextColor;
                 this.label2.color = this.newTextColor;
 
-                // Подстраиваем длину линии зачеркивания под размер label1
                 if (this.strikeThroughLine1) {
                     this.strikeThroughLine1.active = true;
 
-                    // Получаем ширину текста в label1
                     let label1Width : any;
                     label1Width = this.label1.node.getComponent(UITransform).width;
 
@@ -49,32 +46,32 @@ export class StrikeThroughText extends Component {
                     const strikeLine1Transform = this.strikeThroughLine1.getComponent(UITransform);
 
                     if (strikeLine1Transform) {
-                        strikeLine1Transform.width = label1Width; // Устанавливаем ширину линии
+                        strikeLine1Transform.width = label1Width;
                     }
 
-                    // Смещаем линию зачеркивания в центр под лейблом
+
                     const labelHeight1 = this.label1.node.getComponent(UITransform).height;
-                    this.strikeThroughLine1.setPosition(0, -10, 0); // Сместите вниз на половину высоты текста
+                    this.strikeThroughLine1.setPosition(0, -10, 0);
                 }
             }
         }
         if (this.strikeThroughLine2) {
             this.strikeThroughLine2.active = true;
 
-            // Получаем ширину текста в label1
+
             let label2Width : any;
             label2Width = this.label2.node.getComponent(UITransform).width;
 
-            // Устанавливаем ширину линии зачеркивания
+
             const strikeLine2Transform = this.strikeThroughLine2.getComponent(UITransform);
 
             if (strikeLine2Transform) {
-                strikeLine2Transform.width = label2Width; // Устанавливаем ширину линии
+                strikeLine2Transform.width = label2Width;
             }
 
             // Смещаем линию зачеркивания в центр под лейблом
             const labelHeight2 = this.label2.node.getComponent(UITransform).height;
-            this.strikeThroughLine2.setPosition(0, -5 , 0); // Сместите вниз на половину высоты текста
+            this.strikeThroughLine2.setPosition(0, -5 , 0);
         }
     }
 }
