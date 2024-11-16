@@ -5,9 +5,10 @@
       "width": 1920,
       "height": 1080,
       "fitHeight": true,
-      "fitWidth": false
+      "fitWidth": true
     },
-    "highQuality": false
+    "highQuality": false,
+    "downloadMaxConcurrency": 15
   },
   "custom_joint_texture_layouts": []
 }

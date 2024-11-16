@@ -127,131 +127,145 @@
       "time": 1731129314121.1777,
       "uuid": "66477075-f061-4d23-9781-aae531c49286"
     },
-    "C:\\Projects\\TestError\\assets\\prefabs": {
+    "C:\\Projects\\TestError\\assets\\project.meta": {
+      "time": 1731776572397.4062
+    },
+    "C:\\Projects\\TestError\\assets\\project": {
+      "time": 1731776668140.5427,
+      "uuid": "41fadc8c-eb2a-4304-9ca6-9bef30b54f80"
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content.meta": {
+      "time": 1731776638965.147
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content": {
+      "time": 1731776651193.8354,
+      "uuid": "a13c250f-5258-4509-a178-99fa793cdb6d"
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\prefabs.meta": {
+      "time": 1731581839408.7454
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\prefabs": {
       "time": 1731581839479.5564,
       "uuid": "df3b5886-5350-4d99-ad6d-72bd33d41a3c"
     },
-    "C:\\Projects\\TestError\\assets\\scenes": {
-      "time": 1731581839481.7659,
-      "uuid": "1d70e97c-e7f9-4315-b7b6-1e78baa601df"
+    "C:\\Projects\\TestError\\assets\\project\\content\\prefabs\\PrefabCreator.prefab.meta": {
+      "time": 1731581839595.2466
     },
-    "C:\\Projects\\TestError\\assets\\scripts": {
-      "time": 1731740154857.479,
-      "uuid": "7b8aedbb-0c27-46a6-8f08-57909006b710"
+    "C:\\Projects\\TestError\\assets\\project\\content\\prefabs\\PrefabCreator.prefab": {
+      "time": 1731776450661.69,
+      "uuid": "257a3dda-74b3-4fdf-969b-ff79bdba8c13"
     },
-    "C:\\Projects\\TestError\\assets\\sprites": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\prefabs\\task-item.prefab.meta": {
+      "time": 1731581839599.236
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\prefabs\\task-item.prefab": {
+      "time": 1731777370445.1106,
+      "uuid": "b1b61896-55db-485d-9d04-e08b078ef79e"
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites.meta": {
+      "time": 1731581839429.6892
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites": {
       "time": 1731581839496.5115,
       "uuid": "c3b308dd-2cef-4c23-bb8c-d262492ef5bf"
     },
-    "C:\\Projects\\TestError\\assets\\scripts\\add-todo.ts": {
-      "time": 1731740154856.4805,
-      "uuid": "f84f8951-d948-4eaa-a016-e7b41fb20827"
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\default_progressbar_bg.prefab.meta": {
+      "time": 1731581839588.2668
     },
-    "C:\\Projects\\TestError\\assets\\scripts\\task-item.ts": {
-      "time": 1731740152313.1707,
-      "uuid": "c594d60e-e831-4458-af81-828d305c842c"
-    },
-    "C:\\Projects\\TestError\\assets\\prefabs.meta": {
-      "time": 1731581839408.7454
-    },
-    "C:\\Projects\\TestError\\assets\\scenes.meta": {
-      "time": 1731581839412.735
-    },
-    "C:\\Projects\\TestError\\assets\\scripts.meta": {
-      "time": 1731581839420.969
-    },
-    "C:\\Projects\\TestError\\assets\\sprites.meta": {
-      "time": 1731581839429.6892
-    },
-    "C:\\Projects\\TestError\\assets\\scripts\\add-todo.ts.meta": {
-      "time": 1731581839473.5715
-    },
-    "C:\\Projects\\TestError\\assets\\scripts\\task-item.ts.meta": {
-      "time": 1731581839476.5642
-    },
-    "C:\\Projects\\TestError\\assets\\prefabs\\PrefabCreator.prefab": {
-      "time": 1731679722681.7563,
-      "uuid": "257a3dda-74b3-4fdf-969b-ff79bdba8c13"
-    },
-    "C:\\Projects\\TestError\\assets\\prefabs\\task-item.prefab": {
-      "time": 1731739429956.8582,
-      "uuid": "b1b61896-55db-485d-9d04-e08b078ef79e"
-    },
-    "C:\\Projects\\TestError\\assets\\scenes\\Main.scene": {
-      "time": 1731742647412.076,
-      "uuid": "8a16b22b-29aa-40c8-8d2b-afc50955d6f9"
-    },
-    "C:\\Projects\\TestError\\assets\\sprites\\default_progressbar_bg.prefab": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\default_progressbar_bg.prefab": {
       "time": 1731328437598.7656,
       "uuid": "fcfe64d9-5dbc-486b-aa31-9e14777ef59f"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonAddToDo.png": {
-      "time": 1731129314111.3164,
-      "uuid": "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67"
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForButtonComplete.png.meta": {
+      "time": 1731581839820.6443
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonComplete.png": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForButtonComplete.png": {
       "time": 1731129314113.1968,
       "uuid": "dbefed79-89ae-476d-a5ed-b73a350e1ddc"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonDelete.png": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForButtonAddToDo.png.meta": {
+      "time": 1731581839807.6785
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForButtonAddToDo.png": {
+      "time": 1731129314111.3164,
+      "uuid": "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67"
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForButtonDelete.png.meta": {
+      "time": 1731581839826.696
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForButtonDelete.png": {
       "time": 1731129314114.1943,
       "uuid": "3f71e948-dfcf-4970-bba7-09c539c80a8a"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForEditbox.png": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForEditbox.png.meta": {
+      "time": 1731581839814.6602
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\FrameForEditbox.png": {
       "time": 1731129314116.19,
       "uuid": "fe037ad7-229c-4049-9f41-c8fb558218df"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\GreyBackground.jpg": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\GreyBackground.jpg.meta": {
+      "time": 1731581839804.6863
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\GreyBackground.jpg": {
       "time": 1731129314117.1863,
       "uuid": "4ff99c0c-ece9-4aee-9375-d544f9fca598"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\IconMovement.png": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\IconMovement.png.meta": {
+      "time": 1731581839896.442
+    },
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\IconMovement.png": {
       "time": 1731129314118.185,
       "uuid": "7878d900-7d97-4fcd-bd16-8af470a04a16"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\WhiteBackground.jpg": {
-      "time": 1731129314121.1777,
-      "uuid": "66477075-f061-4d23-9781-aae531c49286"
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\Прямоугольник 11.png.meta": {
+      "time": 1731581839930.5344
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\Прямоугольник 11.png": {
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\Прямоугольник 11.png": {
       "time": 1731254168823.2803,
       "uuid": "285efc7b-e333-4f32-835d-6c419e3a5e99"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\default_progressbar_bg.prefab.meta": {
-      "time": 1731581839588.2668
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\WhiteBackground.jpg.meta": {
+      "time": 1731581840087.0024
     },
-    "C:\\Projects\\TestError\\assets\\prefabs\\task-item.prefab.meta": {
-      "time": 1731581839599.236
+    "C:\\Projects\\TestError\\assets\\project\\content\\sprites\\WhiteBackground.jpg": {
+      "time": 1731129314121.1777,
+      "uuid": "66477075-f061-4d23-9781-aae531c49286"
     },
-    "C:\\Projects\\TestError\\assets\\scenes\\Main.scene.meta": {
+    "C:\\Projects\\TestError\\assets\\project\\scenes.meta": {
+      "time": 1731581839412.735
+    },
+    "C:\\Projects\\TestError\\assets\\project\\scenes": {
+      "time": 1731776745186.384,
+      "uuid": "1d70e97c-e7f9-4315-b7b6-1e78baa601df"
+    },
+    "C:\\Projects\\TestError\\assets\\project\\scenes\\Main.scene.meta": {
       "time": 1731581839606.2173
     },
-    "C:\\Projects\\TestError\\assets\\prefabs\\PrefabCreator.prefab.meta": {
-      "time": 1731581839595.2466
+    "C:\\Projects\\TestError\\assets\\project\\scenes\\Main.scene": {
+      "time": 1731777301020.6836,
+      "uuid": "8a16b22b-29aa-40c8-8d2b-afc50955d6f9"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonAddToDo.png.meta": {
-      "time": 1731581839807.6785
+    "C:\\Projects\\TestError\\assets\\project\\scripts.meta": {
+      "time": 1731581839420.969
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\GreyBackground.jpg.meta": {
-      "time": 1731581839804.6863
+    "C:\\Projects\\TestError\\assets\\project\\scripts": {
+      "time": 1731776348081.0386,
+      "uuid": "7b8aedbb-0c27-46a6-8f08-57909006b710"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonComplete.png.meta": {
-      "time": 1731581839820.6443
+    "C:\\Projects\\TestError\\assets\\project\\scripts\\add-todo.ts.meta": {
+      "time": 1731581839473.5715
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForEditbox.png.meta": {
-      "time": 1731581839814.6602
+    "C:\\Projects\\TestError\\assets\\project\\scripts\\add-todo.ts": {
+      "time": 1731776348080.0415,
+      "uuid": "f84f8951-d948-4eaa-a016-e7b41fb20827"
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonDelete.png.meta": {
-      "time": 1731581839826.696
+    "C:\\Projects\\TestError\\assets\\project\\scripts\\task-item.ts.meta": {
+      "time": 1731581839476.5642
     },
-    "C:\\Projects\\TestError\\assets\\sprites\\IconMovement.png.meta": {
-      "time": 1731581839896.442
-    },
-    "C:\\Projects\\TestError\\assets\\sprites\\Прямоугольник 11.png.meta": {
-      "time": 1731581839930.5344
-    },
-    "C:\\Projects\\TestError\\assets\\sprites\\WhiteBackground.jpg.meta": {
-      "time": 1731581840087.0024
+    "C:\\Projects\\TestError\\assets\\project\\scripts\\task-item.ts": {
+      "time": 1731740152313.1707,
+      "uuid": "c594d60e-e831-4458-af81-828d305c842c"
     }
   },
   "missing": {
@@ -414,6 +428,111 @@
       "path": "C:\\Users\\katya\\Desktop\\мусорка\\repositories\\TestError\\assets\\scene.scene",
       "time": 1731597283877.5203,
       "removeTime": 1731597294678
+    },
+    "a1401064-910d-4f43-a607-3c48e0a807d4": {
+      "path": "C:\\Projects\\TestError\\assets\\scripts\\adaptiveUI.ts",
+      "time": 1731765667279.334,
+      "removeTime": 1731768548520
+    },
+    "78498c7f-45a3-4622-b260-39940c450de8": {
+      "path": "C:\\Projects\\TestError\\assets\\scenes\\Main-001.scene",
+      "time": 1731773314643.2234,
+      "removeTime": 1731773368392
+    },
+    "df3b5886-5350-4d99-ad6d-72bd33d41a3c": {
+      "path": "C:\\Projects\\TestError\\assets\\prefabs",
+      "time": 1731581839479.5564,
+      "removeTime": 1731776641811
+    },
+    "257a3dda-74b3-4fdf-969b-ff79bdba8c13": {
+      "path": "C:\\Projects\\TestError\\assets\\prefabs\\PrefabCreator.prefab",
+      "time": 1731776450661.69,
+      "removeTime": 1731776641814
+    },
+    "b1b61896-55db-485d-9d04-e08b078ef79e": {
+      "path": "C:\\Projects\\TestError\\assets\\prefabs\\task-item.prefab",
+      "time": 1731775312652.8928,
+      "removeTime": 1731776641814
+    },
+    "c3b308dd-2cef-4c23-bb8c-d262492ef5bf": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites",
+      "time": 1731581839496.5115,
+      "removeTime": 1731776651196
+    },
+    "fcfe64d9-5dbc-486b-aa31-9e14777ef59f": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\default_progressbar_bg.prefab",
+      "time": 1731328437598.7656,
+      "removeTime": 1731776651197
+    },
+    "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonAddToDo.png",
+      "time": 1731129314111.3164,
+      "removeTime": 1731776651199
+    },
+    "dbefed79-89ae-476d-a5ed-b73a350e1ddc": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonComplete.png",
+      "time": 1731129314113.1968,
+      "removeTime": 1731776651203
+    },
+    "3f71e948-dfcf-4970-bba7-09c539c80a8a": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\FrameForButtonDelete.png",
+      "time": 1731129314114.1943,
+      "removeTime": 1731776651205
+    },
+    "fe037ad7-229c-4049-9f41-c8fb558218df": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\FrameForEditbox.png",
+      "time": 1731129314116.19,
+      "removeTime": 1731776651206
+    },
+    "4ff99c0c-ece9-4aee-9375-d544f9fca598": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\GreyBackground.jpg",
+      "time": 1731129314117.1863,
+      "removeTime": 1731776651208
+    },
+    "7878d900-7d97-4fcd-bd16-8af470a04a16": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\IconMovement.png",
+      "time": 1731129314118.185,
+      "removeTime": 1731776651209
+    },
+    "66477075-f061-4d23-9781-aae531c49286": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\WhiteBackground.jpg",
+      "time": 1731129314121.1777,
+      "removeTime": 1731776651211
+    },
+    "285efc7b-e333-4f32-835d-6c419e3a5e99": {
+      "path": "C:\\Projects\\TestError\\assets\\sprites\\Прямоугольник 11.png",
+      "time": 1731254168823.2803,
+      "removeTime": 1731776651212
+    },
+    "1d70e97c-e7f9-4315-b7b6-1e78baa601df": {
+      "path": "C:\\Projects\\TestError\\assets\\scenes",
+      "time": 1731773368386.8315,
+      "removeTime": 1731776663821
+    },
+    "8a16b22b-29aa-40c8-8d2b-afc50955d6f9": {
+      "path": "C:\\Projects\\TestError\\assets\\scenes\\Main.scene",
+      "time": 1731776532537.4746,
+      "removeTime": 1731776663822
+    },
+    "1bd8bf08-6494-4a07-ab0a-333a11dcc325": {
+      "path": "C:\\Projects\\TestError\\assets\\project\\scenes\\test.scene",
+      "time": 1731770435251.1548,
+      "removeTime": 1731776745255
+    },
+    "7b8aedbb-0c27-46a6-8f08-57909006b710": {
+      "path": "C:\\Projects\\TestError\\assets\\scripts",
+      "time": 1731776348081.0386,
+      "removeTime": 1731776668144
+    },
+    "f84f8951-d948-4eaa-a016-e7b41fb20827": {
+      "path": "C:\\Projects\\TestError\\assets\\scripts\\add-todo.ts",
+      "time": 1731776348080.0415,
+      "removeTime": 1731776668145
+    },
+    "c594d60e-e831-4458-af81-828d305c842c": {
+      "path": "C:\\Projects\\TestError\\assets\\scripts\\task-item.ts",
+      "time": 1731740152313.1707,
+      "removeTime": 1731776668146
     }
   }
 }

@@ -28,7 +28,6 @@ export class PrefabCreator extends Component {
 
         this.ButtonAddTask.node.on(Button.EventType.CLICK, this._onButtonClick.bind(this));
     }
-
     private _onButtonClick(): void {
         const text_title = this.InputText_1?.string.trim();
         const text_discription = this.InputText_2?.string.trim();
@@ -53,15 +52,10 @@ export class PrefabCreator extends Component {
 
                 if (this.InputText_1) this.InputText_1.string = '';
                 if (this.InputText_2) this.InputText_2.string = '';
-            } else {
-                console.error('Префаб или контейнер не установлен!');
+
             }
-        } else {
-            console.warn('Оба текстовых поля должны быть заполнены!');
         }
     }
-
-
     private _deletePrefab(prefabInstance: Node) {
         if (prefabInstance) {
             prefabInstance.destroy();
