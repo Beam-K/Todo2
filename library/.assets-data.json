@@ -46,55 +46,32 @@
   },
   "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85": {
     "url": "db://assets/Scenes/Main.scene",
-    "value": {
-      "depends": [
-        "7eeaa1fc-e949-4eda-aa06-6cd364a2fe85",
-        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
-        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
-        "ee85a2ca-c728-4e23-a0a3-c11d1f3ed1e0",
-        "95e721c7-1969-45d9-ab89-d51a47903335",
-        "98fa4223-fecb-49b9-82b8-22efdb3dc7e1"
-      ],
-      "dependScripts": [
-        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
-        "0a339de3-4143-494d-a228-21c2e856eac0"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "3b1e942b-c9fd-47c3-9af6-94809dd255dd": {
     "url": "db://assets/Sprites/FrameForButtonAddToDo.png",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "223d3756-3cf6-422c-bec4-beec1ab0d137": {
     "url": "db://assets/Sprites/FrameForButtonComplete.png",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "5a1a58cc-a2a9-46c1-931d-e47b7deb2830": {
     "url": "db://assets/Sprites/FrameForButtonDelete.png",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "56efe508-7465-4e27-a30a-64762f04b4a6": {
     "url": "db://assets/Sprites/FrameForEditbox.png",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "c819551e-37d8-4c1a-a103-70e222c640f3": {
     "url": "db://assets/Sprites/GreyBackground.jpg",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "3b1e942b-c9fd-47c3-9af6-94809dd255dd@6c48a": {
@@ -153,9 +130,7 @@
   },
   "feba469f-d772-4d7d-b33c-6c4acca17dbb": {
     "url": "db://assets/Sprites/IconMovement.png",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "223d3756-3cf6-422c-bec4-beec1ab0d137@f9941": {
@@ -169,9 +144,7 @@
   },
   "1d755890-fff1-44fd-8f50-acd8333cbfd7": {
     "url": "db://assets/Sprites/WhiteBackground.jpg",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@f9941": {
@@ -259,9 +232,7 @@
   },
   "1f118cb4-46f5-4166-be55-8149d6ed6f75": {
     "url": "db://assets/Sprites/Прямоугольник 11.png",
-    "value": {
-      "depends": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "1f118cb4-46f5-4166-be55-8149d6ed6f75@6c48a": {
@@ -289,41 +260,17 @@
   },
   "95e721c7-1969-45d9-ab89-d51a47903335": {
     "url": "db://assets/Prefabs/task-item.prefab",
-    "value": {
-      "depends": [
-        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
-        "223d3756-3cf6-422c-bec4-beec1ab0d137@f9941",
-        "5a1a58cc-a2a9-46c1-931d-e47b7deb2830@f9941",
-        "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941"
-      ],
-      "dependScripts": [
-        "4067d821-5be1-496a-9805-360822dd5e96"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "9d8e4afe-aeb2-4096-bfe1-9ca9da2fea2e": {
     "url": "db://assets/Sprites/default_progressbar_bg.prefab",
-    "value": {
-      "depends": [
-        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941"
-      ],
-      "dependScripts": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "ee85a2ca-c728-4e23-a0a3-c11d1f3ed1e0": {
     "url": "db://assets/Prefabs/PrefabCreator.prefab",
-    "value": {
-      "depends": [
-        "3b1e942b-c9fd-47c3-9af6-94809dd255dd@f9941",
-        "1f118cb4-46f5-4166-be55-8149d6ed6f75@f9941",
-        "1d755890-fff1-44fd-8f50-acd8333cbfd7@f9941"
-      ],
-      "dependScripts": [
-        "28b4b4b7-53ef-423c-94f4-1ec5e833f9f2"
-      ]
-    },
+    "value": {},
     "versionCode": 1
   },
   "4067d821-5be1-496a-9805-360822dd5e96": {
@@ -348,6 +295,299 @@
   },
   "5cbc3301-1de5-49e6-a403-0157060ed7bd": {
     "url": "db://assets/Scripts/delete-task.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "df3b5886-5350-4d99-ad6d-72bd33d41a3c": {
+    "url": "db://assets/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "1d70e97c-e7f9-4315-b7b6-1e78baa601df": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "7b8aedbb-0c27-46a6-8f08-57909006b710": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c3b308dd-2cef-4c23-bb8c-d262492ef5bf": {
+    "url": "db://assets/sprites",
+    "value": {},
+    "versionCode": 1
+  },
+  "f84f8951-d948-4eaa-a016-e7b41fb20827": {
+    "url": "db://assets/scripts/add-todo.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c594d60e-e831-4458-af81-828d305c842c": {
+    "url": "db://assets/scripts/task-item.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "257a3dda-74b3-4fdf-969b-ff79bdba8c13": {
+    "url": "db://assets/prefabs/PrefabCreator.prefab",
+    "value": {
+      "depends": [
+        "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67@f9941",
+        "285efc7b-e333-4f32-835d-6c419e3a5e99@f9941",
+        "66477075-f061-4d23-9781-aae531c49286@f9941",
+        "257a3dda-74b3-4fdf-969b-ff79bdba8c13"
+      ],
+      "dependScripts": [
+        "f84f8951-d948-4eaa-a016-e7b41fb20827"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b1b61896-55db-485d-9d04-e08b078ef79e": {
+    "url": "db://assets/prefabs/task-item.prefab",
+    "value": {
+      "depends": [
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
+        "dbefed79-89ae-476d-a5ed-b73a350e1ddc@f9941",
+        "3f71e948-dfcf-4970-bba7-09c539c80a8a@f9941",
+        "66477075-f061-4d23-9781-aae531c49286@f9941"
+      ],
+      "dependScripts": [
+        "c594d60e-e831-4458-af81-828d305c842c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a16b22b-29aa-40c8-8d2b-afc50955d6f9": {
+    "url": "db://assets/scenes/Main.scene",
+    "value": {
+      "depends": [
+        "8a16b22b-29aa-40c8-8d2b-afc50955d6f9",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "257a3dda-74b3-4fdf-969b-ff79bdba8c13",
+        "b1b61896-55db-485d-9d04-e08b078ef79e",
+        "98fa4223-fecb-49b9-82b8-22efdb3dc7e1"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "0a339de3-4143-494d-a228-21c2e856eac0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fcfe64d9-5dbc-486b-aa31-9e14777ef59f": {
+    "url": "db://assets/sprites/default_progressbar_bg.prefab",
+    "value": {
+      "depends": [
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67": {
+    "url": "db://assets/sprites/FrameForButtonAddToDo.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dbefed79-89ae-476d-a5ed-b73a350e1ddc": {
+    "url": "db://assets/sprites/FrameForButtonComplete.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3f71e948-dfcf-4970-bba7-09c539c80a8a": {
+    "url": "db://assets/sprites/FrameForButtonDelete.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fe037ad7-229c-4049-9f41-c8fb558218df": {
+    "url": "db://assets/sprites/FrameForEditbox.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4ff99c0c-ece9-4aee-9375-d544f9fca598": {
+    "url": "db://assets/sprites/GreyBackground.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4ff99c0c-ece9-4aee-9375-d544f9fca598@6c48a": {
+    "url": "db://assets/sprites/GreyBackground.jpg@6c48a",
+    "value": {
+      "depends": [
+        "4ff99c0c-ece9-4aee-9375-d544f9fca598"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe037ad7-229c-4049-9f41-c8fb558218df@6c48a": {
+    "url": "db://assets/sprites/FrameForEditbox.png@6c48a",
+    "value": {
+      "depends": [
+        "fe037ad7-229c-4049-9f41-c8fb558218df"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67@6c48a": {
+    "url": "db://assets/sprites/FrameForButtonAddToDo.png@6c48a",
+    "value": {
+      "depends": [
+        "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dbefed79-89ae-476d-a5ed-b73a350e1ddc@6c48a": {
+    "url": "db://assets/sprites/FrameForButtonComplete.png@6c48a",
+    "value": {
+      "depends": [
+        "dbefed79-89ae-476d-a5ed-b73a350e1ddc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3f71e948-dfcf-4970-bba7-09c539c80a8a@6c48a": {
+    "url": "db://assets/sprites/FrameForButtonDelete.png@6c48a",
+    "value": {
+      "depends": [
+        "3f71e948-dfcf-4970-bba7-09c539c80a8a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4ff99c0c-ece9-4aee-9375-d544f9fca598@f9941": {
+    "url": "db://assets/sprites/GreyBackground.jpg@f9941",
+    "value": {
+      "depends": [
+        "4ff99c0c-ece9-4aee-9375-d544f9fca598@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67@f9941": {
+    "url": "db://assets/sprites/FrameForButtonAddToDo.png@f9941",
+    "value": {
+      "depends": [
+        "0f1bb31f-d20f-47d6-b8d5-eedc34a2ae67@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7878d900-7d97-4fcd-bd16-8af470a04a16": {
+    "url": "db://assets/sprites/IconMovement.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "66477075-f061-4d23-9781-aae531c49286": {
+    "url": "db://assets/sprites/WhiteBackground.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fe037ad7-229c-4049-9f41-c8fb558218df@f9941": {
+    "url": "db://assets/sprites/FrameForEditbox.png@f9941",
+    "value": {
+      "depends": [
+        "fe037ad7-229c-4049-9f41-c8fb558218df@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dbefed79-89ae-476d-a5ed-b73a350e1ddc@f9941": {
+    "url": "db://assets/sprites/FrameForButtonComplete.png@f9941",
+    "value": {
+      "depends": [
+        "dbefed79-89ae-476d-a5ed-b73a350e1ddc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "285efc7b-e333-4f32-835d-6c419e3a5e99": {
+    "url": "db://assets/sprites/Прямоугольник 11.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3f71e948-dfcf-4970-bba7-09c539c80a8a@f9941": {
+    "url": "db://assets/sprites/FrameForButtonDelete.png@f9941",
+    "value": {
+      "depends": [
+        "3f71e948-dfcf-4970-bba7-09c539c80a8a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "66477075-f061-4d23-9781-aae531c49286@6c48a": {
+    "url": "db://assets/sprites/WhiteBackground.jpg@6c48a",
+    "value": {
+      "depends": [
+        "66477075-f061-4d23-9781-aae531c49286"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7878d900-7d97-4fcd-bd16-8af470a04a16@6c48a": {
+    "url": "db://assets/sprites/IconMovement.png@6c48a",
+    "value": {
+      "depends": [
+        "7878d900-7d97-4fcd-bd16-8af470a04a16"
+      ]
+    },
+    "versionCode": 1
+  },
+  "285efc7b-e333-4f32-835d-6c419e3a5e99@6c48a": {
+    "url": "db://assets/sprites/Прямоугольник 11.png@6c48a",
+    "value": {
+      "depends": [
+        "285efc7b-e333-4f32-835d-6c419e3a5e99"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7878d900-7d97-4fcd-bd16-8af470a04a16@f9941": {
+    "url": "db://assets/sprites/IconMovement.png@f9941",
+    "value": {
+      "depends": [
+        "7878d900-7d97-4fcd-bd16-8af470a04a16@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "285efc7b-e333-4f32-835d-6c419e3a5e99@f9941": {
+    "url": "db://assets/sprites/Прямоугольник 11.png@f9941",
+    "value": {
+      "depends": [
+        "285efc7b-e333-4f32-835d-6c419e3a5e99@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "66477075-f061-4d23-9781-aae531c49286@f9941": {
+    "url": "db://assets/sprites/WhiteBackground.jpg@f9941",
+    "value": {
+      "depends": [
+        "66477075-f061-4d23-9781-aae531c49286@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5c3a11d2-e048-48fb-bc38-b43e7b9552f5": {
+    "url": "db://assets/scene.scene",
     "value": {},
     "versionCode": 1
   }

@@ -1,17 +1,15 @@
-import {Button, Component, _decorator, Prefab, Label, Color, Node,  UITransform, Vec2} from "cc";
-
+import { Button, Component, _decorator, Prefab, Label, Color, Node, UITransform } from "cc";
 
 @_decorator.ccclass("TaskItem")
 export class TaskItem extends Component {
     @_decorator.property(Button) public completeButton: Button;
     @_decorator.property(Button) public deleteButton: Button;
-    @_decorator.property(Node) public prefabToDelete: Prefab | null= null;
-    @_decorator.property(Label) public label1: Label;
-    @_decorator.property(Label) public label2: Label;
-    @_decorator.property(Node) public line1: Node;
-    @_decorator.property(Node) public line2: Node;
+    @_decorator.property(Node) public prefabToDelete: Prefab | null = null;
+    @_decorator.property(Label) public labelForTitle: Label;
+    @_decorator.property(Label) public labelForDiscription: Label;
+    @_decorator.property(Node) public lineForTitle: Node;
+    @_decorator.property(Node) public lineForDiscription: Node;
     @_decorator.property(Color) public newTextColor: Color = new Color;
-
 
     protected start(): void {
         this.completeButton.node.on(Button.EventType.CLICK, this._onComplete.bind(this));
@@ -19,53 +17,39 @@ export class TaskItem extends Component {
     }
 
     private _onComplete(): void {
-        if (this.label1) {
-            if (this.label2) {
-                this.label1.color = this.newTextColor;
-                this.label2.color = this.newTextColor;
+        if (this.labelForTitle) {
+            if (this.labelForDiscription) {
+                this.labelForTitle.color = this.newTextColor;
+                this.labelForDiscription.color = this.newTextColor;
 
-                if (this.line1) {
-                    this.line1.active = true;
+                if (this.lineForTitle) {
+                    this.lineForTitle.active = true;
 
-                    let labelWidth_1 : any;
-                    labelWidth_1 = this.label1.node.getComponent(UITransform).width;
-
-
-                    const LINE_1 = this.line1.getComponent(UITransform);
-
-                    if (LINE_1) {
-                        LINE_1.width = labelWidth_1;
+                    let labelWidth_1: number = this.labelForTitle.node.getComponent(UITransform).width;
+                    let line_1 = this.lineForTitle.getComponent(UITransform);
+                    if (line_1) {
+                        line_1.width = labelWidth_1;
                     }
 
-
-                    const LABEL_HEIGHT_1 = this.label1.node.getComponent(UITransform).height;
-                    this.line1.setPosition(0, -10, 0);
+                    let labelHeight1 = this.labelForTitle.node.getComponent(UITransform).height;
+                    this.lineForTitle.setPosition(0, -10, 0);
                 }
             }
         }
-        if (this.line2) {
-            this.line2.active = true;
+        if (this.lineForDiscription) {
+            this.lineForDiscription.active = true;
 
-
-            let labelWidth_2 : any;
-            labelWidth_2 = this.label2.node.getComponent(UITransform).width;
-
-
-            const LINE_2 = this.line2.getComponent(UITransform);
-
-            if (LINE_2) {
-                LINE_2.width = labelWidth_2;
+            let labelWidth_2: number = this.labelForDiscription.node.getComponent(UITransform).width;
+            let line2 = this.lineForDiscription.getComponent(UITransform);
+            if (line2) {
+                line2.width = labelWidth_2;
             }
-            const LABEL_HEIGHT_2 = this.label2.node.getComponent(UITransform).height;
-            this.line2.setPosition(0, -5 , 0);
+            const labelHeight2 = this.labelForDiscription.node.getComponent(UITransform).height;
+            this.lineForDiscription.setPosition(0, -5, 0);
         }
     }
 
-
-
-
     private _onDelete(): void {
-
         if (this.prefabToDelete) {
             this.prefabToDelete.destroy();
             console.log('Префаб удалён со сцены');
@@ -74,4 +58,22 @@ export class TaskItem extends Component {
         }
     }
 
+
+    public setTitle(title: string): void {
+        if (this.labelForTitle) {
+            this.labelForTitle.string = title;
+            console.log("Title set to:", title);
+        } else {
+            console.error("Label for title not found!");
+        }
+    }
+
+    public setDescription(description: string): void {
+        if (this.labelForDiscription) {
+            this.labelForDiscription.string = description;
+            console.log("Description set to:", description);
+        } else {
+            console.error("Label for description not found!");
+        }
+    }
 }
